@@ -8,7 +8,7 @@ I am a Front End developer who loves to solve challenging problems. I specialize
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://redwan-10110.web.app/)
-* ✉️  You can contact me at [rhfullstack2021@gmail.com](mailto:rhfullstack2021@gmail.com)
+* ✉️  You can contact me at [rhfullstack2021@gmail.com](mailto:redwan.hoque.dev@gmail.com)
 * 🧠  I'm learning TypeScript, GraphQL and Redux
 
 ### Skills
