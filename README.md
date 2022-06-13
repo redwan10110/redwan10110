@@ -7,7 +7,7 @@ Frontend Developer
 I am a Front End developer who loves to solve challenging problems. I specialize in translating designs and wireframes into high-quality code using reusable react components. I consider myself to be a team- player. And accept new challenges with enthusiasm. Extremely motivated to constantly develop my skills and grow professionally.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolior](http://redwan-10110.web.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://redwan-10110.web.app/)
 * ✉️  You can contact me at [rhfullstack2021@gmail.com](mailto:rhfullstack2021@gmail.com)
 * 🧠  I'm learning TypeScript, GraphQL and Redux
 
